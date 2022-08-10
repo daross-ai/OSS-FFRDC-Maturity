@@ -15,4 +15,4 @@ Artificats:
 The Report and Presentation are downloadable from this repo.
 
 Wiki:
-Contains the report and the orginal survey if you would like to take it yourself.
+Contains the report, checklist, and the orginal survey if you would like to take it yourself.
